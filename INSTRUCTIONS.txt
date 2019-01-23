@@ -1,0 +1,21 @@
+REQUIREMENTS:
+1. Have Python (at least 3.6) installed. Make sure that whatever interpreter you're using supports input.
+2. For a PC, you can install it from python.org.
+
+HOW TO RUN:
+On PC, open the program IDLE. Then go to File --> Open. open game.py. then go to run --> run module.
+On anything else, follow the instructions given for the app.
+
+NOTE: 
+DO NOT CLOSE THE GAME before you finish entering your name. If you must close it for some reason, enter a name and then skip the tutorial and wait until it gives you a first question prompt. If there is an error upon starting, try to run repairsave.py. This will erase your save but most likely fix the problem.
+
+For any other errors at any point, email me at brendon.shaw8921@gmail.com. Make sure that you copy the error message and send it to me in the email (it starts with "Traceback (Most recent call last)..." and is usually in red.)
+
+In this game, you are a new Israelite king trying to keep your people happy. You do this by answering questions and making choices for the kingdom to raise three stats: popularity, money, and military. Be careful, though; If one of then gets too low, a revolution will start, which will lower your other stats by 0.5 during each turn. During a revolution, you have to answer ten different questions correctly in order to win. Every once in a while, you will get a choice that can lower and raise certain stats; remember to use y or n when answering these.
+
+To win, all of your stats need to reach ten each. You can get other endings, but the best is if all of them reach 10. The game is over after you answer 25 questions total, if you win, or all of your stats reach zero.
+
+NOTE:
+Every answer must start with a capital letter. Otherwise, the game will not recognize it as correct and mark you wrong.
+
+
